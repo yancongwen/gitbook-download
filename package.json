@@ -1,0 +1,20 @@
+{
+  "name": "gitbook-download",
+  "version": "1.0.0",
+  "description": "download any webpage made with gitbook as markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitbook",
+    "markdown"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "puppeteer": "^21.3.5",
+    "turndown": "^7.1.2"
+  }
+}
